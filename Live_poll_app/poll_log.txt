@@ -1,0 +1,6 @@
+[2025-05-15 11:26:24] Cem voted for Leopar (first_vote)
+[2025-05-15 11:27:07] Cem voted for Leopar (first_vote)
+[2025-05-15 11:27:27] Cem voted for Aslan (change_vote)
+[2025-05-15 11:27:39] Taha voted for Leopar (first_vote)
+[2025-05-15 20:54:45] taha voted for Leopar (first_vote)
+[2025-05-15 20:55:23] taha voted for Jaguar (change_vote)
